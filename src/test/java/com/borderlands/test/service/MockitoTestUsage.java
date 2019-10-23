@@ -12,6 +12,8 @@ public class MockitoTestUsage {
 		
 		when(mock.searchBackpackNumber(978));
 		//assert(mock.searchBackpackNumber(978),true);
+		
+		//adding this comment line for git testing
 	}
 	
 	
